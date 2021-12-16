@@ -1,17 +1,13 @@
 # Table of contents
 
-* [Getting Started](README.md)
-  * [Cooking with Polygon](readme/cooking-with-polygon/README.md)
-    * [Why Polygon?](readme/cooking-with-polygon/why-polygon.md)
-    * [Learning Resources](readme/cooking-with-polygon/learning-resources.md)
-  * [Installation](getting-started/installation.md)
-* [Core Concepts](core-concepts/README.md)
-  * [Accounts & Transactions](core-concepts/accounts-and-transactions.md)
-  * [PoS & EVM Compatibility](core-concepts/pos-and-evm-compatibility.md)
-* [Ingredients](ingredients/README.md)
-  * [Solidity & RPC Providers](ingredients/solidity-and-rpc-providers.md)
-  * [Faucet](ingredients/faucet.md)
-  * [L2 Bridges](ingredients/l2-bridges.md)
-* [Recipes](recipes/README.md)
-  * [Home Cooking (Basics)](recipes/home-cooking-basics.md)
-  * [Restaurant's Manual (Advanced)](recipes/restaurants-manual-advanced.md)
+* [Welcome!](README.md)
+
+## The Company
+
+* [Vision and Values](the-company/vision-and-values.md)
+* [Meet the Team!](the-company/meet-the-team.md)
+
+## The Formal Stuff
+
+* [Requesting Time Off](the-formal-stuff/requesting-time-off.md)
+* [Filing Expenses](the-formal-stuff/filing-expenses.md)
